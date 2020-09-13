@@ -1,5 +1,7 @@
 #nav_menu ul {
     list-style-type: none;
+    padding: 1em 0;
+    text-align: center;
 }
 
 #nav_menu ul li {
@@ -7,8 +9,8 @@
 }
 
 #nav_menu ul li a {
-    text-align: center;
-    display: block;
+    text-align: left;
+    display: inline-block;
     padding: 1em 0;
     text-decoration: none;
     background-color: none;
@@ -35,7 +37,7 @@
     position: center;
     left: 0;
     bottom: 0;
-    padding-top: 60px;
+    padding-top: 80px;
     width: 100%;
     background-color: none;
     color: none;
