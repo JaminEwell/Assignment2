@@ -9,7 +9,6 @@
 #nav_menu ul li a {
     text-align: center;
     display: block;
-    width: 175 px;
     padding: 1em 0;
     text-decoration: none;
     background-color: none;
@@ -30,4 +29,19 @@
     background-color: none;
     color: none;
     text-align: none;
+}
+
+.main {
+    position: center;
+    left: 0;
+    bottom: 0;
+    padding-top: 60px;
+    width: 100%;
+    background-color: none;
+    color: none;
+    text-align: left;
+}
+
+h2 {
+    text-align: left;
 }
